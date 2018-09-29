@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dropDisasterTypes">
+        <item>Storm</item>
+        <item>Rain</item>
+        <item>Floods</item>
+        <item>Heat Wave</item>
+        <item>Earthquake</item>
+        <item>Volcano</item>
+        <item>Accident</item>
+        <item>Others</item>
+    </string-array>
+</resources>
